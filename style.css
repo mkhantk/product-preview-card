@@ -24,9 +24,10 @@ body {
 }
 
 .image1 {
-    width: 50%;
+    width: 100%;
     border-top-left-radius:10px ;
     border-bottom-left-radius: 10px;
+    min-width: 50%;
 }
 .image2 {
     display: none;
